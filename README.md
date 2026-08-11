@@ -5,7 +5,7 @@ I am an aspiring developer with a passion for turning ideas into code, whether i
 🛠️ **Tech Stack:**
 * **Languages:** JavaScript, Python, Java.
 * **Front-end:** React.js, HTML/CSS.
-* **Back-end:** Java and Node.js.
+* **Back-end:** Java, Django and Node.js.
 
 💡 **Highlights:**
 * Web Application Development (Fullstack).
