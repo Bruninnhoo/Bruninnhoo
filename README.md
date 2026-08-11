@@ -1,4 +1,4 @@
-### 👋 About Me
+# 👋 About Me
 
 I am an aspiring developer with a passion for turning ideas into code, whether it involves analyzing data or creating interactive experiences.
 
