@@ -1,46 +1,39 @@
-<div align="center">
+# Hi, I'm Bruno Heyden 👋
 
-# 👋 Hi, I'm Bruno Heyden!
+**Full-stack developer and software designer from Brazil.** I build websites and apps, including production sites. As hobby i make mods for some games. 
 
-*An aspiring developer with a passion for turning ideas into code. I combine logic with a strong eye for design to craft intuitive, interactive experiences and scalable solutions.*
+🟢 **Open to opportunities and freelance work**
 
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-brunoheyden.dev-111827?style=for-the-badge)](https://brunoheyden.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/bruno-heyden-13311a25a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoheyden@gmail.com)
 
-### 🛠️ Tech Stack
+## 🚀 Featured projects
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<br>
-<!-- Front-end -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<br>
-<!-- Back-end & DB -->
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+| Project | What it is | Stack |
+|---|---|---|
+| **[Cadena](https://github.com/Bruninnhoo/Cadena)** · [live](https://cadenalocacoes.com.br/) | Website redesign for an event equipment rental company | React, TypeScript, Spring Boot, AWS |
+| **[SmashMobs](https://github.com/Bruninnhoo/SmashMobs-Mod)** | Minecraft mod where you morph into mobs and fight with their abilities | Java, NeoForge |
+| **[Portfolio](https://github.com/Bruninnhoo/Landpage)** · [live](https://brunoheyden.dev/) | My personal site, in Portuguese and English | React, TypeScript, Vite |
 
-<br>
+## 💼 Experience
 
-### 💡 Highlights
+- **Front-end Developer, Residere Imóveis** (freelance, 2026 – present): responsive React and TypeScript interfaces for real estate, plus technical SEO and performance.
+- **Full-stack Developer, Cadena Locações** (freelance, 2025 – 2026): interface, APIs, database and cloud integration.
+- **FiveM Script Developer** (freelance, 2024 – 2025): custom NUI interfaces and interactive systems with React, JavaScript and Lua.
 
-</div>
+🎓 Finishing a degree in Computer Science.
 
-* 💻 **Full-stack Development:** Building end-to-end web applications, from the database architecture to the final user interface.
-* 🎓 **Current Focus:** Finishing my Computer Science degree and developing robust platforms and SaaS applications.
-* 🚀 **Freelance Experience:** Delivering custom web and graphic design solutions.
-* 🌱 **Always Learning:** Constantly exploring new ways to optimize APIs and integrate engaging features into my projects.
+## 🛠️ Tech stack
 
-<br>
+**Languages & front-end**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruno-heyden-13311a25a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:SEU-EMAIL@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+![TypeScript, JavaScript, Python, Java, Lua, React, Next.js, Tailwind CSS, Vite](https://skillicons.dev/icons?i=ts,js,python,java,lua,react,nextjs,tailwind,vite)
+
+**Back-end & data**
+
+![Node.js, NestJS, Express, Django, Spring Boot, PostgreSQL, Prisma, Supabase, Redis, MongoDB](https://skillicons.dev/icons?i=nodejs,nestjs,express,django,spring,postgres,prisma,supabase,redis,mongodb)
+
+**Tools & infrastructure**
+
+![AWS, Docker, Git, Linux](https://skillicons.dev/icons?i=aws,docker,git,linux)
