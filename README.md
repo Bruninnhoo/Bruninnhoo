@@ -1,6 +1,6 @@
 # Hi, I'm Bruno Heyden 👋
 
-**Full-stack developer and software designer from Brazil.** I build websites and apps, including production sites. As hobby i make mods for some games. 
+**Full-stack developer and software designer from Brazil.** I build websites and apps, including production sites. As a hobby, I make mods for some games.
 
 🟢 **Open to opportunities and freelance work**
 
@@ -18,7 +18,7 @@
 
 ## 💼 Experience
 
-- **Front-end Developer, Residere Imóveis** (freelance, 2026 – present): responsive React and TypeScript interfaces for real estate, plus technical SEO and performance.
+- **Full-stack Developer, Residere Imóveis** (freelance, 2026 – present): API development and responsive React and TypeScript interfaces, plus technical SEO and performance.
 - **Full-stack Developer, Cadena Locações** (freelance, 2025 – 2026): interface, APIs, database and cloud integration.
 - **FiveM Script Developer** (freelance, 2024 – 2025): custom NUI interfaces and interactive systems with React, JavaScript and Lua.
 
